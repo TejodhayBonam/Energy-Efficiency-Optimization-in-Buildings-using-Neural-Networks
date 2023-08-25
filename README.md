@@ -1,7 +1,6 @@
 # Energy Efficiency Optimization using Neural Networks
 > This study looked into assessing the heating load and cooling load requirements of buildings (that is, energy efficiency) as a function of building parameters.
-The project was done as part of Machine Learning class at the University of Texas at Dallas.
-The entire summary of the project can be found in the [Jupyter Notebook](https://github.com/siddharthoza/Energy-Efficiency-Optimization-Neural-network/blob/master/Energy%20Efficiency%20Analysis%20.ipynb)
+The project was done as part of Machine Learning class at the Northeastern university, Boston.
 
 ## Table of contents
 * [General info](#general-info)
@@ -129,11 +128,5 @@ sr no	| model	| train_r2_score	| test_r2_score
 ## Status
 Project is: _finished_
 
-## Contact
-Created by me and my teammate <a href="https://harshgupta.com/">Harsh Gupta</a>.
 
-If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
-just want to shoot a question, please feel free to connect with me on <a href="siddharth.oza@outlook.com" target="_blank">email</a>, 
-<a href="www.linkedin.com/in/siddharthoza" target="_blank">LinkedIn</a>
-
-My other projects can be found [here](www.siddharthoza.com).
+My other projects can be found [here](http://www.tejodhay.com/).
